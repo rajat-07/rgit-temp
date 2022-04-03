@@ -58,7 +58,7 @@ class App extends Component {
 
   render() {
 
-    console.log("hello ...");
+    console.log("hello world ...");
 
     return (
       // <Provider store={store}>
