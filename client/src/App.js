@@ -57,6 +57,9 @@ class App extends Component {
   // }
 
   render() {
+
+    console.log("hello ...");
+
     return (
       // <Provider store={store}>
       //   <Router>
